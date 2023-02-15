@@ -1,3 +1,5 @@
+////BUTTON.JAVA CODE IMPORTED FROM RUTGERS COMPUTER SCIENCE DEPARTMENT
+
 package conwaygame;
 /*
  * Class used to create Buttons to be used on each page of the driver.
