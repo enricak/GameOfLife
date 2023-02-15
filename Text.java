@@ -1,3 +1,7 @@
+
+////TEXT.JAVA CODE IMPORTED FROM RUTGERS COMPUTER SCIENCE DEPARTMENT
+
+
 package conwaygame;
 /*
  * Class used to create label text for various aspects of the driver.
