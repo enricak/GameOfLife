@@ -1,3 +1,8 @@
+
+
+////DRIVER.JAVA CODE IMPORTED FROM RUTGERS COMPUTER SCIENCE DEPARTMENT
+
+
 package conwaygame;
 /*
  * Conway's Game of Life Driver
