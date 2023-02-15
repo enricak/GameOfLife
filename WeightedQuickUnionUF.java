@@ -1,3 +1,10 @@
+
+
+////WEIGHTEDQUICKUNIONUF.JAVA CODE IMPORTED FROM RUTGERS COMPUTER SCIENCE DEPARTMENT
+
+
+
+
 package conwaygame;
 /*
  * Weighted Quick Union
